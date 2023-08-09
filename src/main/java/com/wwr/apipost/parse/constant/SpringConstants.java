@@ -9,7 +9,8 @@ public interface SpringConstants {
     String PutMapping = "org.springframework.web.bind.annotation.PutMapping";
     String DeleteMapping = "org.springframework.web.bind.annotation.DeleteMapping";
     String PatchMapping = "org.springframework.web.bind.annotation.PatchMapping";
-    String RequestBody = "org.springframework.web.bind.annotation.RequestBody";
+//    String RequestBody = "org.springframework.web.bind.annotation.RequestBody";
+    String RequestBody = "com.niceloo.framework.web.ApiParamBody";
     String RequestParam = "org.springframework.web.bind.annotation.RequestParam";
     String RequestHeader = "org.springframework.web.bind.annotation.RequestHeader";
     String RequestAttribute = "org.springframework.web.bind.annotation.RequestAttribute";

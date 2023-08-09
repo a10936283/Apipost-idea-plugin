@@ -3,8 +3,8 @@ plugins {
   id("org.jetbrains.intellij") version "1.10.1"
 }
 
-group = "com.wwr"
-version = "1.6-SNAPSHOT"
+group = "com.youlu"
+version = "1.6-youlu-SNAPSHOT"
 
 repositories {
   mavenCentral()
